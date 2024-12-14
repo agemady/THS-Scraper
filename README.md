@@ -1,7 +1,7 @@
 # THS-Scraper Data Flow
 
 ## Overview
-A Selenium-based web scraper for TrustedHousesitters that collects listing data and stores it in a SQL database.
+A Python/Javascript web scraper for TrustedHousesitters that collects listing data and stores it in a SQL database.
 
 ## Data Flow
 
